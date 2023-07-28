@@ -1,0 +1,37 @@
+[
+  {
+    "categoris": "CPU / Processor",
+    "name": "CPU / Processor",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/Processor.svg  "
+  },
+  {
+    "categoris": "Motherboard",
+    "name": "Motherboard",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/all-in-one.svg"
+  },
+  {
+    "categoris": "RAM",
+    "name": "RAM",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/GPU.svg"
+  },
+  {
+    "categoris": "Power_Supply_Unit",
+    "name": "Power Supply Unit",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/speaker.svg"
+  },
+  {
+    "categoris": "Storage_Device",
+    "name": "Storage Device",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/GPU.svg"
+  },
+  {
+    "categoris": "Monitor",
+    "name": "Monitor",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/Monitor.svg"
+  },
+  {
+    "categoris": "Others",
+    "name": "Others",
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/gaming.svg"
+  }
+]

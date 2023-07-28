@@ -56,7 +56,7 @@ const NavBar = () => {
             <li tabIndex={0}>
               <details>
                 <summary>Categories </summary>
-                <ul className="p-2">
+                <ul className="p-2 z-40">
                   <li>
                     <Link href="/category">CPU / Processor</Link>
                   </li>
