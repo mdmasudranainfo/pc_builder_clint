@@ -1,10 +1,13 @@
 import RootLayout from '@/Layout/RootLayout'
+import { addToBuilder } from '@/Redux/PcBuilder/pcBuildersSlice'
 import React from 'react'
+import { useDispatch } from 'react-redux'
 
 const ChoceProductPage = ({ products }) => {
+  const dispatch = useDispatch()
   return (
-    <div>
-      <div className="grid grid-cols-4 gap-8">
+    <div className="container mx-auto">
+      <div className="grid grid-cols-4 gap-8 my-[50px]">
         {products?.slice(0, 6).map(product => (
           <div key={product?._id} className="card glass">
             <figure>
@@ -26,7 +29,9 @@ const ChoceProductPage = ({ products }) => {
               <div className="card-actions justify-end">
                 <p className="font-bold">৳{product?.Price}</p>
                 <button className="btn btn-primary btn-sm">
-                  <button>Bye</button>
+                  <button onClick={() => dispatch(addToBuilder(product))}>
+                    Buy
+                  </button>
                 </button>
               </div>
             </div>

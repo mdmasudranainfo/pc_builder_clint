@@ -1,11 +1,19 @@
 const { createSlice } = require('@reduxjs/toolkit')
 
 const initialState = {
-  const: 0,
+  products: [],
 }
 
 const pcBuilderSlice = createSlice({
   name: 'pcBuilder',
   initialState,
-  reducers: {},
+  reducers: {
+    addToBuilder: (state, action) => {
+      state.products.push(action.payload)
+    },
+  },
 })
+
+export const { addToBuilder } = pcBuilderSlice.actions
+
+export default pcBuilderSlice.reducer

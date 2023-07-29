@@ -2,7 +2,6 @@ import Link from 'next/link'
 import React from 'react'
 
 const HomeProducts = ({ products }) => {
-  console.log(products)
   return (
     <div className="container mx-auto mb-[100px]">
       <h2 className="text-2xl font-bold pb-8 text-center">Top Product </h2>

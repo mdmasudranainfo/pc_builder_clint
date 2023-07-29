@@ -3,7 +3,6 @@ import Image from 'next/image'
 import React from 'react'
 
 const ProductDetail = ({ product }) => {
-  console.log(product)
   return (
     <div className="container mx-auto my-[50px] ">
       <div className="grid grid-cols-2 gap-8 justify-items-center">
