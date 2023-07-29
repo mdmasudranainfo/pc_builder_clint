@@ -14,7 +14,7 @@ const Categories = ({ categories }) => {
       <div className=" grid grid-cols-7 gap-10 mt-8 ">
         {categories?.map(category => (
           <Link
-            href={`products/${category?.categoris}`}
+            href={`categories/${category?.categoris}`}
             className="shadow-xl p-3"
             key={category?._id}
           >

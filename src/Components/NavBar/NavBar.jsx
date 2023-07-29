@@ -90,7 +90,7 @@ const NavBar = () => {
               </details>
             </li>
             <li>
-              <a>Item 3</a>
+              <Link href="/pcbuilder">Pc Builder</Link>
             </li>
           </ul>
         </div>
