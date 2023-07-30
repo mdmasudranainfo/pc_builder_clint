@@ -5,9 +5,9 @@ const HomeProducts = ({ products }) => {
   return (
     <div className="container mx-auto mb-[100px]">
       <h2 className="text-2xl font-bold pb-8 text-center">Top Product </h2>
-      <div className="grid grid-cols-4 gap-8">
+      <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 gap-8 justify-items-center">
         {products?.slice(0, 6).map(product => (
-          <div key={product?._id} className="card glass">
+          <div key={product?._id} className="card glass max-w-[300px]">
             <figure>
               <img src={product?.Image} alt="car!" />
             </figure>

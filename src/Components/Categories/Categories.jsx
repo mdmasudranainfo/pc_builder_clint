@@ -11,7 +11,7 @@ const Categories = ({ categories }) => {
       </p>
 
       {/*  card*/}
-      <div className=" grid grid-cols-7 gap-10 mt-8 ">
+      <div className=" grid xl:grid-cols-7 lg:grid-cols-6 md:grid-cols-4 sm:grid-cols-3  grid-cols-2 gap-10 mt-8 ">
         {categories?.map(category => (
           <Link
             href={`categories/${category?.categoris}`}

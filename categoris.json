@@ -1,8 +1,8 @@
 [
   {
-    "categoris": "CPU / Processor",
+    "categoris": "CPU_Processor",
     "name": "CPU / Processor",
-    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/Processor.svg  "
+    "image": "https://www.ryanscomputers.com/assets/images/category-icon/svg/Processor.svg"
   },
   {
     "categoris": "Motherboard",

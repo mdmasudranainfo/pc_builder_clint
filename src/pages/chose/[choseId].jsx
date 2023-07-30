@@ -11,8 +11,17 @@ const ChoceProductPage = ({ products }) => {
     dispatch(addToBuilder(product))
     router.push('/pcbuilder')
   }
+
+  if (!products.length) {
+    return (
+      <div className="min-h-[80vh] flex items-center justify-center">
+        {' '}
+        <h1 className="text-secondary">Have Not Product This Categories</h1>
+      </div>
+    )
+  }
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto min-h-[80vh]">
       <div className="grid grid-cols-4 gap-8 my-[50px]">
         {products?.slice(0, 6).map(product => (
           <div key={product?._id} className="card glass">
