@@ -35,18 +35,43 @@ const NavBar = () => {
                 <Link href="/">Home</Link>
               </li>
               <li>
-                <a>Parent</a>
-                <ul className="p-2">
+                <a>Categories</a>
+                <ul className="p-2 z-40">
                   <li>
-                    <a>Submenu 1</a>
+                    <Link href="/categories/CPU_Processor">
+                      CPU / Processor
+                    </Link>
                   </li>
                   <li>
-                    <a>Submenu 2</a>
+                    <Link href="/categories/Motherboard">Motherboard</Link>
+                  </li>
+
+                  <li>
+                    <Link href="/categories/RAM">RAM</Link>
+                  </li>
+
+                  <li>
+                    <Link href="/categories/Power_Supply_Unit">
+                      Power Supply Unit
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link href="/categories/Storage_Device">
+                      Storage Device
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link href="/categories/Monitor">Monitor</Link>
+                  </li>
+                  <li>
+                    <Link href="/categories/Others  ">Others</Link>
                   </li>
                 </ul>
               </li>
               <li>
-                <a>Item 3</a>
+                <Link href="/pcbuilder">Pc Builder</Link>
               </li>
             </ul>
           </div>

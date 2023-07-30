@@ -1,6 +1,6 @@
 import RootLayout from '@/Layout/RootLayout'
 import { store } from '@/Redux/store'
-import '@/styles/globals.css'
+import '../styles/globals.css'
 import { Provider } from 'react-redux'
 import { SessionProvider } from 'next-auth/react'
 

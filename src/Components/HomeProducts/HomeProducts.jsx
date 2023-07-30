@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 
@@ -9,7 +10,13 @@ const HomeProducts = ({ products }) => {
         {products?.slice(0, 6).map(product => (
           <div key={product?._id} className="card glass max-w-[300px]">
             <figure>
-              <img src={product?.Image} alt="car!" />
+              <Image
+                height={300}
+                width={300}
+                layout="responsive"
+                src={product?.Image}
+                alt=""
+              />
             </figure>
             <div className="card-body">
               <p>{product?.Product_Name}</p>
