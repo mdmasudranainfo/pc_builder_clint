@@ -1,10 +1,16 @@
 import RootLayout from '@/Layout/RootLayout'
 import { addToBuilder } from '@/Redux/PcBuilder/pcBuildersSlice'
+import { useRouter } from 'next/router'
 import React from 'react'
 import { useDispatch } from 'react-redux'
 
 const ChoceProductPage = ({ products }) => {
+  const router = useRouter()
   const dispatch = useDispatch()
+  const addHandeler = product => {
+    dispatch(addToBuilder(product))
+    router.push('/pcbuilder')
+  }
   return (
     <div className="container mx-auto">
       <div className="grid grid-cols-4 gap-8 my-[50px]">
@@ -29,9 +35,7 @@ const ChoceProductPage = ({ products }) => {
               <div className="card-actions justify-end">
                 <p className="font-bold">৳{product?.Price}</p>
                 <button className="btn btn-primary btn-sm">
-                  <button onClick={() => dispatch(addToBuilder(product))}>
-                    Buy
-                  </button>
+                  <button onClick={() => addHandeler(product)}>Buy</button>
                 </button>
               </div>
             </div>

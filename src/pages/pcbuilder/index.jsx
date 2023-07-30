@@ -1,4 +1,5 @@
 import RootLayout from '@/Layout/RootLayout'
+import { removeToPcBuilder } from '@/Redux/PcBuilder/pcBuildersSlice'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
@@ -22,6 +23,7 @@ const PcBuilderPage = ({ categories }) => {
             const isExting = products.find(
               product => product?.Category === category?.categoris
             )
+
             return isExting ? (
               <div
                 key={category?._id}
@@ -31,16 +33,24 @@ const PcBuilderPage = ({ categories }) => {
                   <Image src={category?.image} width={50} height={50} alt="" />
                   <p className="mt-1">{category?.name}</p>
                 </div>
-                <div className="flex gap-2">
-                  <Image src={isExting?.Image} width={50} height={50} alt="" />
-                  <p className="mt-1">{isExting?.Product_Name}</p>
+                <div className="flex gap-2 items-center">
+                  <Image
+                    className="rounded-full"
+                    src={isExting?.Image}
+                    width={50}
+                    height={50}
+                    alt=""
+                  />
+                  <p className="mt-1">{isExting?.Product_Name}</p>{' '}
+                  <p className="mt-1 font-bold">Price: {isExting?.Price}</p>
                 </div>
-                <Link
-                  href={`/chose/${category?.categoris}`}
-                  className="btn btn-secondary"
+
+                <button
+                  onClick={() => dispatch(removeToPcBuilder(isExting))}
+                  className="btn btn-sm"
                 >
-                  Choce
-                </Link>
+                  X
+                </button>
               </div>
             ) : (
               <div
@@ -54,7 +64,7 @@ const PcBuilderPage = ({ categories }) => {
                 <div className=""></div>
                 <Link
                   href={`/chose/${category?.categoris}`}
-                  className="btn btn-secondary"
+                  className="btn btn-sm"
                 >
                   Choce
                 </Link>
