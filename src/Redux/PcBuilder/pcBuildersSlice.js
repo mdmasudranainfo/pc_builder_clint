@@ -2,6 +2,7 @@ const { createSlice } = require('@reduxjs/toolkit')
 
 const initialState = {
   products: [],
+  totalPrice: 0,
 }
 
 const pcBuilderSlice = createSlice({
@@ -10,11 +11,13 @@ const pcBuilderSlice = createSlice({
   reducers: {
     addToBuilder: (state, action) => {
       state.products.push(action.payload)
+      state.totalPrice += action.payload.Price
     },
     removeToPcBuilder: (state, action) => {
       state.products = state.products.filter(
         product => product._id !== action.payload._id
       )
+      state.totalPrice -= action.payload.Price
     },
   },
 })

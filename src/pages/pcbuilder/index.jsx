@@ -7,14 +7,17 @@ import { useDispatch, useSelector } from 'react-redux'
 
 const PcBuilderPage = ({ categories }) => {
   const dispatch = useDispatch()
-  const { products } = useSelector(state => state.pcBuilder)
+  const { products, totalPrice } = useSelector(state => state.pcBuilder)
 
   return (
     <div className="container mx-auto  min-h-[80vh] my-[50px]">
       <div className="max-w-[800px] mx-auto bg-slate-200 px-4 mt-5">
         <div className=" flex justify-between py-5">
           <h2 className="text-3xl">PC Builder </h2>
-          <button className="btn btn-primary">Complite</button>
+          <button className="btn btn-primary">
+            {' '}
+            Totall Price :{totalPrice}
+          </button>
         </div>
 
         {/*  */}
@@ -70,25 +73,12 @@ const PcBuilderPage = ({ categories }) => {
                 </Link>
               </div>
             )
-            // return (
-            //   <div
-            //     key={category?._id}
-            //     className="bg-primary p-3 rounded flex justify-between items-center"
-            //   >
-            //     <div className="">
-            //       <Image src={category?.image} width={50} height={50} alt="" />
-            //       <p className="mt-1">{category?.name}</p>
-            //     </div>
-            //     <div className=""></div>
-            //     <Link
-            //       href={`/chose/${category?.categoris}`}
-            //       className="btn btn-secondary"
-            //     >
-            //       Choce
-            //     </Link>
-            //   </div>
-            // )
           })}
+        </div>
+        <div className="flex justify-center py-4 disabled">
+          <button className="btn btn-primary" disabled={products.length === 6}>
+            Complite
+          </button>
         </div>
       </div>
     </div>
