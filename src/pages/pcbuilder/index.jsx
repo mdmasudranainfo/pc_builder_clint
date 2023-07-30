@@ -99,7 +99,9 @@ PcBuilderPage.getLayout = function getLayout(page) {
 }
 
 export const getServerSideProps = async () => {
-  const res = await fetch('http://localhost:5000/categories')
+  const res = await fetch(
+    'https://pc-builder-server-zeta.vercel.app/categories'
+  )
   const categories = await res.json()
 
   return {

@@ -70,7 +70,9 @@ ChoceProductPage.getLayout = function getLayout(page) {
 
 export const getServerSideProps = async contex => {
   const { params } = contex
-  const res = await fetch(`http://localhost:5000/products/${params?.choseId}`)
+  const res = await fetch(
+    `https://pc-builder-server-zeta.vercel.app/products/${params?.choseId}`
+  )
   const products = await res.json()
   return {
     props: {

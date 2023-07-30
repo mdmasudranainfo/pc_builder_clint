@@ -26,9 +26,11 @@ HomePage.getLayout = function getLayout(page) {
 //
 
 export const getStaticProps = async () => {
-  const res = await fetch('http://localhost:5000/categories')
+  const res = await fetch(
+    'https://pc-builder-server-zeta.vercel.app/categories'
+  )
   const categories = await res.json()
-  const ress = await fetch('http://localhost:5000/products')
+  const ress = await fetch('https://pc-builder-server-zeta.vercel.app/products')
   const products = await ress.json()
 
   return {
