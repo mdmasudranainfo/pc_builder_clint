@@ -5,7 +5,7 @@ import React from 'react'
 const ProductDetail = ({ product }) => {
   return (
     <div className="container mx-auto my-[50px] ">
-      <div className="grid grid-cols-2 gap-8 justify-items-center">
+      <div className="grid lg:grid-cols-2 gap-8 justify-items-center">
         <div className="">
           <Image
             src={product?.Image}

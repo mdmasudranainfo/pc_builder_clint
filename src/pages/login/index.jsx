@@ -11,7 +11,10 @@ const LoginPage = () => {
       <div className="">
         <h1
           onClick={() =>
-            signIn('google', { callbackUrl: 'http://localhost:3000' })
+            signIn('google', {
+              callbackUrl:
+                'https://pc-builder-clint-mdmasudranainfo.vercel.app',
+            })
           }
           className=" bg-primary flex items-center p-2 rounded-xl text-2xl cursor-pointer"
         >
@@ -20,7 +23,10 @@ const LoginPage = () => {
         </h1>
         <h1
           onClick={() =>
-            signIn('github', { callbackUrl: 'http://localhost:3000' })
+            signIn('github', {
+              callbackUrl:
+                'https://pc-builder-clint-mdmasudranainfo.vercel.app',
+            })
           }
           className=" bg-primary flex items-center p-2 rounded-xl text-2xl cursor-pointer mt-5"
         >
