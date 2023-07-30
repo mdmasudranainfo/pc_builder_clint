@@ -30,13 +30,20 @@ const PcBuilderPage = ({ categories }) => {
             return isExting ? (
               <div
                 key={category?._id}
-                className="bg-primary p-3 rounded flex justify-between items-center"
+                className="bg-primary p-3 rounded flex md:flex-row flex-col justify-between items-center"
               >
                 <div className="">
-                  <Image src={category?.image} width={50} height={50} alt="" />
+                  <div className="flex justify-center">
+                    <Image
+                      src={category?.image}
+                      width={50}
+                      height={50}
+                      alt=""
+                    />
+                  </div>
                   <p className="mt-1">{category?.name}</p>
                 </div>
-                <div className="flex gap-2 items-center">
+                <div className="flex sm:flex-row flex-col  gap-2 items-center">
                   <Image
                     className="rounded-full"
                     src={isExting?.Image}

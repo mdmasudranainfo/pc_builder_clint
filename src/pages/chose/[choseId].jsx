@@ -1,5 +1,6 @@
 import RootLayout from '@/Layout/RootLayout'
 import { addToBuilder } from '@/Redux/PcBuilder/pcBuildersSlice'
+import Image from 'next/image'
 import { useRouter } from 'next/router'
 import React from 'react'
 import { useDispatch } from 'react-redux'
@@ -22,11 +23,17 @@ const ChoceProductPage = ({ products }) => {
   }
   return (
     <div className="container mx-auto min-h-[80vh]">
-      <div className="grid grid-cols-4 gap-8 my-[50px]">
+      <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 gap-8 justify-items-center my-[50px]">
         {products?.slice(0, 6).map(product => (
-          <div key={product?._id} className="card glass">
+          <div key={product?._id} className="card glass max-w-[300px]">
             <figure>
-              <img src={product?.Image} alt="car!" />
+              <Image
+                src={product?.Image}
+                width={300}
+                height={300}
+                layout="responsive"
+                alt=""
+              />
             </figure>
             <div className="card-body">
               <p>{product?.Product_Name}</p>

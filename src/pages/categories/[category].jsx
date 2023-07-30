@@ -1,4 +1,5 @@
 import RootLayout from '@/Layout/RootLayout'
+import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
 
@@ -14,11 +15,17 @@ const ProductsPages = ({ products }) => {
 
   return (
     <div className="container mx-auto min-h-[80vh] ">
-      <div className="grid grid-cols-4 gap-8">
+      <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 gap-8 justify-items-center">
         {products?.slice(0, 6).map(product => (
-          <div key={product?._id} className="card glass">
+          <div key={product?._id} className="card glass max-w-[300px]">
             <figure>
-              <img src={product?.Image} alt="car!" />
+              <Image
+                src={product?.Image}
+                width={300}
+                height={300}
+                layout="responsive"
+                alt=""
+              />
             </figure>
             <div className="card-body">
               <p>{product?.Product_Name}</p>
