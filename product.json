@@ -1,5 +1,100 @@
 [
   {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/component/laptop-ram/samsung/4gb-ddr3/4gb-ddr3-500x500.jpg",
+    "Product_Name": "Samsung 4GB 1600MHz DDR3 PC3L Laptop RAM",
+    "Category": "RAM",
+    "Status": true,
+    "Price": 1500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Samsung",
+      "Model": "H81M-VG4 R4.0",
+      "Specification": " Supports 4th Generation Intel Core Processors (Socket 1150)||Supports Dual Channel DDR3 1600   ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": ""
+    },
+    "Individual_Rating": "4.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/ram/twinmos/4gb-3200mhz-ddr4/4gb-3200mhz-ddr4-01-500x500.webp",
+    "Product_Name": "TwinMOS 8GB 3200MHz DDR4 SO-DIMM Laptop RAM",
+    "Category": "RAM",
+    "Status": true,
+    "Price": 3600,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "TwinMOS ",
+      "Model": "3200MHz DDR4",
+      "Specification": " Operating voltage: 1.2V, Latency: CL22",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": ""
+    },
+    "Individual_Rating": "3.5",
+    "Average_Rating": "4.2",
+    "Reviews": " aha ki product  "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jm-ddr4/jm-ddr4-01-500x500.jpg",
+    "Product_Name": "Transcend JetRAM 8GB DDR4 3200Mhz SO-DIMM Laptop RAM",
+    "Category": "RAM",
+    "Status": true,
+    "Price": 3200,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Transcend ",
+      "Model": "3200MHz DDR4",
+      "Specification": " 8GB RAM Type: DDR4 Frequency: 3200Mhz",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": ""
+    },
+    "Individual_Rating": "3.5",
+    "Average_Rating": "4.2",
+    "Reviews": " aha ki product  "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/Gigabyte%20GA-H110M%20S2PH-DDR4-500x500.jpg",
+    "Product_Name": "Gigabyte GA-H110M S2PH-DDR4 Motherboard",
+    "Category": "Motherboard",
+    "Status": true,
+    "Price": 1500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Asus",
+      "Model": "H81M-VG4 R4.0",
+      "Specification": " Supports 4th Generation Intel Core Processors (Socket 1150)||Supports Dual Channel DDR3 1600   ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": ""
+    },
+    "Individual_Rating": "4.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/a520mh/a520mh-01-500x500.webp",
+    "Product_Name": "BIOSTAR A520MH DDR4 AMD AM4 Micro ATX Motherboard",
+    "Category": "Motherboard",
+    "Status": true,
+    "Price": 9500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Asus",
+      "Model": "H81M-VG4 R4.0",
+      "Specification": " Supports 4th Generation Intel Core Processors (Socket 1150)||Supports Dual Channel DDR3 1600   ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": ""
+    },
+    "Individual_Rating": "4.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
     "Image": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h81m-vg4-r4-0/h81m-vg4-r4-0-01-500x500.jpg",
     "Product_Name": "BIOSTAR A520MH DDR4 AMD AM4 Micro ATX Motherboard",
     "Category": "Motherboard",
@@ -15,6 +110,291 @@
       "Voltage": ""
     },
     "Individual_Rating": "4.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
+    "Product_Name": "Intel Pentium Gold G6405 Coffee Lake Processor ",
+    "Category": "CPU_Processor",
+    "Status": true,
+    "Price": 7000,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Intel",
+      "Model": "Intel Pentium Gold G6405",
+      "Specification": "Speed 4.10 GHz, Cores- 2 & Threads- 4 ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "4.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-500x500.jpg",
+    "Product_Name": "AMD Ryzen 3 4100 Processor ",
+    "Category": "CPU_Processor",
+    "Status": true,
+    "Price": 10300,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "AMD",
+      "Model": "Intel Pentium Gold G6405",
+      "Specification": "Speed 4.10 GHz, Cores- 2 & Threads- 4 ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-5-5500/amd-ryzen-5-5500-01-500x500.jpg",
+    "Product_Name": "AMD Ryzen 5 5500 Processor",
+    "Category": "CPU_Processor",
+    "Status": true,
+    "Price": 11500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "AMD",
+      "Model": "Intel Pentium Gold G6405",
+      "Specification": "Speed 4.10 GHz, Cores- 2 & Threads- 4 ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/p450b/p450b-500x500.jpg",
+    "Product_Name": "Gigabyte P450B 450W 80 Plus Bronze Certified Power Supply ",
+    "Category": "Power_Supply_Unit",
+    "Status": true,
+    "Price": 3600,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Gigabyte ",
+      "Model": "Gigabyte P450B",
+      "Specification": "Speed 4.10 GHz, Cores- 2 & Threads- 4 ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/csk-450/csk-450-bronze-01-500x500.jpg",
+    "Product_Name": "Antec CUPRUM STRIKE CSK 450W 80 Plus Bronze Power Supply",
+    "Category": "Power_Supply_Unit",
+    "Status": true,
+    "Price": 3900,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "CUPRUM ",
+      "Model": "CUPRUM STRIKE CSK 450W",
+      "Specification": "Speed 4.10 GHz, Cores- 2 & Threads- 4 ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/power-supply/deepcool/pk550d/pk550d-01-500x500.webp",
+    "Product_Name": "DeepCool PK500D 500 Watt 80 PLUS Bronze Power Supply",
+    "Category": "Power_Supply_Unit",
+    "Status": true,
+    "Price": 3600,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "DeepCool ",
+      "Model": "DeepCool STRIKE CSK 450W",
+      "Specification": "Speed 4.10 GHz, Cores- 2 & Threads- 4 ",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/power-supply/deepcool/pk550d/pk550d-01-500x500.webp",
+    "Product_Name": "Dahua E800 128GB 2.5 ins SATA III SSD",
+    "Category": "Storage_Device",
+    "Status": true,
+    "Price": 3600,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Dahua  ",
+      "Model": "Dahua  450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/128gb-m-2-2280-sataiii-ssd/128gb-m-2-2280-sataiii-ssd-01-500x500.webp",
+    "Product_Name": "TwinMOS 128GB M.2 2280 SATAIII SSD",
+    "Category": "Storage_Device",
+    "Status": true,
+    "Price": 3500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "TwinMOS ",
+      "Model": "TwinMOS  450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/ssd/acer/fa100/fa100-01-500x500.jpg",
+    "Product_Name": "Acer FA100 128GB M.2 NVMe PCIe Gen3 x 4 SSD",
+    "Category": "Storage_Device",
+    "Status": true,
+    "Price": 3400,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "TwinMOS ",
+      "Model": "TwinMOS  450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": "500",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/monitor/univision/led350/led350-01-500x500.png",
+    "Product_Name": "Univision LED350 22' 60Hz AH FHD Monitor",
+    "Category": "Monitor",
+    "Status": true,
+    "Price": 7500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Univision  ",
+      "Model": "Univision   450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": " FHD (1920x1080)",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/eb192q/eb192q-01-500x500.jpg",
+    "Product_Name": "Acer EB192Q 18.5 Inch HD Monitor",
+    "Category": "Monitor",
+    "Status": true,
+    "Price": 8399,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Acer",
+      "Model": "Acer 450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": " FHD (1920x1080)",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-500x500.jpg",
+    "Product_Name": "Xiaomi Redmi RMMNT215NF 21.45' FHD Monitor",
+    "Category": "Monitor",
+    "Status": true,
+    "Price": 8099,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Xiaomi",
+      "Model": "Xiaomi 450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": " FHD (1920x1080)",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/monitor/xiaomi/rmmnt215nf/rmmnt215nf-01-500x500.jpg",
+    "Product_Name": "Edifier M601DB 2.1 Bluetooth Multimedia Speaker",
+    "Category": "Others",
+    "Status": true,
+    "Price": 20500,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "Xiaomi",
+      "Model": "Xiaomi 450W",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": " FHD (1920x1080)",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/rtx-3060-ti-ventus-2x-oc/rtx-3060-ti-ventus-2x-oc-1-500x500.jpg",
+    "Product_Name": "MSI GeForce RTX 3060 Ti VENTUS 2X OC 8GB Graphics Card",
+    "Category": "Others",
+    "Status": true,
+    "Price": 57499,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "MSI",
+      "Model": "GeForce RTX 3060 Ti VENTUS 2X OC",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": " FHD (1920x1080)",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
+    "Average_Rating": "4.2",
+    "Reviews": " ai product khub kharap apnara kaw niben na "
+  },
+  {
+    "Image": "https://www.startech.com.bd/image/cache/catalog/hp-printer/color-laserjet-cp5225n/hp-color-laserjet-cp5225n-04-500x500.jpg",
+    "Product_Name": "HP Color LaserJet CP5225N A3 Printer",
+    "Category": "Others",
+    "Status": true,
+    "Price": 170000,
+    "Description": "The ASRock H81M-VG4 R4.0 4th Gen Micro ATX Motherboard supports Intel 4th Generation Intel Core Processors (Socket 1150) and Dual Channel DDR3 1600. The Motherboard comes with 1 PCIe 2.0 x16, 1 PCIe 2.0 x1. It features a D-Sub port for graphic output. It is built with a High-Density Glass Fabric PCB design that reduces the gaps between the PCB layers to protect the motherboard against electrical shorts caused by humidity. This ASRock motherboard uses a Realtek gigabit LAN chip to support extremely fast internet connections. The ASRock H81M-VG4 R4.0 features a solid capacitor design. The motherboard offers full spike protection. It includes various technologies to prevent your motherboard’s components from being damaged by these unexpected voltage spikes. It also comes with ASRock Live Update & APP Shop. The ASRock H81M-VG4 R4.0 comes with 3 years of warranty.",
+    "Key_Features": {
+      "Brand": "HP",
+      "Model": " LaserJet CP5225N",
+      "Specification": " 6 Gb/s SATA, Form Factor: 2.5",
+      "Port": "1 PCIe 2.0 x16, 1 PCIe 2.0 x1",
+      "Resolution": " FHD (1920x1080)",
+      "Voltage": "Intel UHD Graphics 610  "
+    },
+    "Individual_Rating": "2.5",
     "Average_Rating": "4.2",
     "Reviews": " ai product khub kharap apnara kaw niben na "
   }

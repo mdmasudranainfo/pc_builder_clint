@@ -83,7 +83,7 @@ const PcBuilderPage = ({ categories }) => {
           })}
         </div>
         <div className="flex justify-center py-4 disabled">
-          <button className="btn btn-primary" disabled={products.length === 6}>
+          <button className="btn btn-primary" disabled={products.length <= 6}>
             Complite
           </button>
         </div>
